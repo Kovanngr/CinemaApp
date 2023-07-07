@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C#\cinemaApp\cinemaApp\bin\Debug\net6.0\cinemaApp.exe
+C:\Users\HP\Desktop\C#\cinemaApp\cinemaApp\bin\Debug\net6.0\cinemaApp.deps.json
+C:\Users\HP\Desktop\C#\cinemaApp\cinemaApp\bin\Debug\net6.0\cinemaApp.runtimeconfig.json
+C:\Users\HP\Desktop\C#\cinemaApp\cinemaApp\bin\Debug\net6.0\cinemaApp.dll
+C:\Users\HP\Desktop\C#\cinemaApp\cinemaApp\bin\Debug\net6.0\cinemaApp.pdb
+C:\Users\HP\Desktop\C#\cinemaApp\cinemaApp\obj\Debug\net6.0\cinemaApp.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\cinemaApp\cinemaApp\obj\Debug\net6.0\cinemaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\cinemaApp\cinemaApp\obj\Debug\net6.0\cinemaApp.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\cinemaApp\cinemaApp\obj\Debug\net6.0\cinemaApp.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\cinemaApp\cinemaApp\obj\Debug\net6.0\cinemaApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\cinemaApp\cinemaApp\obj\Debug\net6.0\cinemaApp.dll
+C:\Users\HP\Desktop\C#\cinemaApp\cinemaApp\obj\Debug\net6.0\refint\cinemaApp.dll
+C:\Users\HP\Desktop\C#\cinemaApp\cinemaApp\obj\Debug\net6.0\cinemaApp.pdb
+C:\Users\HP\Desktop\C#\cinemaApp\cinemaApp\obj\Debug\net6.0\cinemaApp.genruntimeconfig.cache
+C:\Users\HP\Desktop\C#\cinemaApp\cinemaApp\obj\Debug\net6.0\ref\cinemaApp.dll
